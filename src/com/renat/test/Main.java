@@ -5,6 +5,6 @@ public class Main {
         System.out.println("Hello word");
         System.out.println("Hello word");
         System.out.println("Hello word");
-
+        int i = 0;
     }
 }
